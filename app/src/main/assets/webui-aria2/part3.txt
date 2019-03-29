@@ -1,0 +1,4 @@
+,
+  encrypt: false,
+  auth: {                          // either add the token field or the user and pass field, not both.
+   token: '

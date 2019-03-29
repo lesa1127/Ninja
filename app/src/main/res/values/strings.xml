@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <!-- App -->
+    <string name="app_name">浏览器</string>
+    <string name="app_ok">确认</string>
+    <string name="app_cancel">取消</string>
+    <string name="list_empty">当前列表为空</string>
+    <string name="album_title_bookmarks">书签</string>
+    <string name="album_title_history">历史记录</string>
+    <string name="album_title_home">主页</string>
+    <string name="album_title_files">文件</string>
+    <string name="album_title_pass">登陆数据</string>
+    <string name="album_untitled">无效的操作</string>
+    <string name="notification_content_holder">单击查看页面</string>
+    <string name="search_hint">搜索</string>
+
+
+    <!-- Menu -->
+    <string name="main_menu_new_tab">在后台打开新页面</string>
+    <string name="main_menu_new_tabOpen">打开新页面</string>
+    <string name="main_menu_copy_link">复制链接</string>
+    <string name="main_menu_save">保存</string>
+    <string name="main_omnibox_input_hint">搜索或键入URL</string>
+    <string name="main_about_blank">about:blank</string>
+
+    <string name="menu_share">分享</string>
+    <string name="menu_other">其他</string>
+    <string name="menu_save">保存</string>
+    <string name="menu_quit">退出</string>
+    <string name="menu_delete">删除</string>
+    <string name="menu_edit">编辑</string>
+    <string name="menu_notification">通知</string>
+
+    <string name="menu_share_screenshot">分享截图</string>
+    <string name="menu_share_link">分享链接</string>
+    <string name="menu_share_clipboard">分享到剪贴板</string>
+
+    <string name="menu_save_screenshot">保存截图</string>
+    <string name="menu_save_home">保存到主页</string>
+    <string name="menu_save_login">保存登录数据</string>
+    <string name="menu_save_bookmark">保存到书签</string>
+    <string name="menu_save_as">另存为 …</string>
+
+    <string name="menu_other_searchSite">在本页面搜索</string>
+    <string name="menu_other_help">帮助</string>
+
+
+    <!-- AndroidAgo -->
+    <string name="android_ago_just_now">现在</string>
+
+
+    <!-- Dialog -->
+    <string name="dialog_toggle_title">快速切换</string>
+    <string name="dialog_toggle_text">对于某些设置，需要打开一个新选项卡来应用。</string>
+    <string name="dialog_title_hint">输入标题</string>
+    <string name="dialog_se_hint">https://www.google.com/search?q=</string>
+    <string name="dialog_ua_hint">Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.36</string>
+    <string name="dialog_sign_in_username">Username</string>
+    <string name="dialog_sign_in_password">Password</string>
+    <string name="dialog_button_custom">自定义</string>
+    <string name="dialog_title_download">你想下载这个文件吗？</string>
+    <string name="dialog_title_sign_in">登陆</string>
+    <string name="dialog_content_resubmission">你想提交你的数据？</string>
+    <string name="dialog_content_ssl_error">站点的证书不可信。还要继续吗？</string>
+
+
+
+    <!-- Settings -->
+    <string name="setting_label">设置</string>
+
+    <!-- Browser setting -->
+    <string name="setting_title_browser">浏览器设置</string>
+    <string name="setting_title_clear_control">数据管理</string>
+    <string name="setting_title_start_control">网页功能管理</string>
+    <string name="setting_summary_clear_control">清除您的浏览器数据</string>
+    <string name="setting_summary_start_control">决定启用浏览器的哪些组件</string>
+
+    <string name="setting_title_search_engine">搜索引擎</string>
+    <string name="setting_summary_search_engine">在这里你可以选择你喜欢的搜索引擎或者设置一个定制的搜索引擎。</string>
+    <string name="setting_summary_search_engine_google">Google</string>
+    <string name="setting_summary_search_engine_duckduckgo">DuckDuckGo</string>
+    <string name="setting_summary_search_engine_startpage">StartPage</string>
+    <string name="setting_summary_search_engine_bing">Bing</string>
+    <string name="setting_summary_search_engine_baidu">Baidu</string>
+
+    <string name="setting_title_user_agent">User Agent</string>
+    <string name="setting_summary_user_agent">切换移动版或桌面版网站。</string>
+    <string name="setting_summary_user_agent_default">Default</string>
+    <string name="setting_summary_user_agent_desktop">Desktop</string>
+
+    <string name="setting_title_rendering">夜间模式</string>
+    <string name="setting_summary_rendering">选择合适的模式</string>
+    <string name="setting_summary_rendering_default">默认</string>
+    <string name="setting_summary_rendering_grayscale">灰度模式</string>
+    <string name="setting_summary_rendering_inverted">反色</string>
+    <string name="setting_summary_rendering_inverted_grayscale">反色灰度模式</string>
+
+
+    <!-- Browser start -->
+    <string name="setting_title_images">图像</string>
+    <string name="setting_summary_images">启用图像.禁用图像可获得更快的加载数度.</string>
+    <string name="setting_title_cookie">Cookies</string>
+    <string name="setting_summary_cookie">启用cookies.推荐启用</string>
+
+    <string name="setting_title_javascript">JavaScript</string>
+    <string name="setting_summary_javascript">启用javascript</string>
+    <string name="setting_title_whitelistJS">JavaScript 白名单</string>
+    <string name="setting_summary_whitelistJS">如果你禁用了JavaScript，你可以使这个网站加入到白名单,从而允许你使用JavaScript。</string>
+
+    <string name="setting_title_adblock">广告拦截</string>
+    <string name="setting_summary_adblock">启用广告拦截</string>
+    <string name="setting_title_whitelist">广告拦截白名单</string>
+    <string name="setting_summary_whitelist">让这些网站显示广告，有些网站不工作，当一广告拦截启用时。</string>
+
+    <string name="setting_title_location">位置</string>
+    <string name="setting_summary_location">允许网站使用您的当前位置信息</string>
+
+
+    <!-- Browser clear -->
+    <string name="clear_summary">所有文件都将导出到下载文件夹,(注意会覆盖同名文件)</string>
+    <string name="clear_menu_done_all">全部完成</string>
+    <string name="clear_title_quit">当应用程序退出时清除</string>
+    <string name="clear_title_bookmarks">清除书签</string>
+    <string name="clear_title_cache">清除缓存</string>
+    <string name="clear_title_cookie">清除 Cookies</string>
+    <string name="clear_title_history">清除历史记录</string>
+
+
+    <!-- App setting -->
+    <string name="setting_title_app">程序设置</string>
+    <string name="setting_title_ui">UI 设置</string>
+    <string name="setting_title_data">备份恢复</string>
+    <string name="setting_summary_ui">更改应用程序的UI以满足您的喜好。</string>
+    <string name="setting_summary_data">导出或备份您的设置</string>
+
+    <!-- App behavior -->
+    <string name="setting_title_nav_control">导航按钮</string>
+    <string name="setting_title_hide">全屏</string>
+    <string name="setting_summary_hide">在浏览网站时使用全屏。如果你按后退按钮，你会离开全屏模式。</string>
+    <string name="setting_title_omnibox_control">滑动控制</string>
+    <string name="setting_summary_omnibox_control">滑动底部导航栏切换页面</string>
+    <string name="setting_title_exit">退出程序</string>
+    <string name="setting_summary_exit">长按刷新按钮退出程序</string>
+    <string name="setting_title_background">打开链接</string>
+    <string name="setting_summary_background">在后台显示通知和打开链接。</string>
+    <string name="setting_title_longClick">长按设置</string>
+    <string name="setting_title_toggle">切换对话框</string>
+    <string name="setting_summary_toggle">长按右下角的菜单键可快速切换一个新的设置标签</string>
+    <string name="setting_title_theme">主题颜色</string>
+    <string name="setting_summary_theme">你不喜欢绿色?单击即可更换</string>
+
+
+    <!-- Data -->
+    <string name="setting_title_export_bookmarks">导出书签</string>
+    <string name="setting_title_import_bookmarks">导入书签</string>
+    <string name="export_bookmarks">export_bookmarks</string>
+
+    <string name="setting_title_export_whitelist">导出广告过滤白名单</string>
+    <string name="setting_title_import_whitelist">导入广告过滤白名单</string>
+    <string name="export_whitelistAdBlock">export_whitelist_AdBlock</string>
+
+    <string name="setting_title_export_whitelistJS">导出javascript白名单</string>
+    <string name="setting_title_import_whitelistJS">导入javascript白名单</string>
+    <string name="export_whitelistJS">export_whitelist_Javascript</string>
+
+
+    <!-- Others setting -->
+    <string name="setting_title_others">其他</string>
+    <string name="setting_title_license">License</string>
+    <string name="setting_summary_license">\"Browser\" is completely free (as in freedom) and open source.</string>
+    <string name="setting_title_appSettings">应用设置</string>
+    <string name="setting_summary_appSettings">打开系统应用管理的设置</string>
+    <string name="setting_title_appSettings_aria2">Aria2应用设置</string>
+    <string name="setting_summary_appSettings_aria2">设置Aria2</string>
+    <string name="setting_aria2ui">Aria2控制台</string>
+    <string name="setting_aria2ui_more">管理您的下载</string>
+    <string name="setting_title_community">Contributing</string>
+    <string name="setting_summary_community">See who contributed something to this project. Or do you want to help with further
+        development, report an issue or just get the latest news relating to my projects?</string>
+    <string name="setting_summary_changelog">显示最近的更新</string>
+
+    <!--Aria2-->
+    <string name="download_aria2">推送下载</string>
+    <string name="setting_aria2_host">Host地址</string>
+    <string name="setting_aria2_port">端口号</string>
+    <string name="setting_aria2_token">Token密匙</string>
+
+    <!-- Toast -->
+    <string name="toast_add_bookmark_successful">收藏成功</string>
+    <string name="toast_add_to_home_successful">成功添加到主页</string>
+    <string name="toast_add_to_home_failed">添加到主页失败</string>
+    <string name="toast_add_whitelist_successful">Successfully added Domain</string>
+    <string name="toast_already_exist_in_home">已经存在于主页</string>
+    <string name="toast_copy_successful">Successfully copied</string>
+    <string name="toast_delete_successful">成功删除</string>
+    <string name="toast_domain_already_exists">Domain already exists</string>
+    <string name="toast_double_taps_quit">Press again to exit</string>
+    <string name="toast_export_successful">导出为:&#160;</string>
+    <string name="toast_export_failed">导出失败</string>
+    <string name="toast_import_successful">导入数量:&#160;</string>
+    <string name="toast_import_failed">导入失败</string>
+    <string name="toast_input_empty">You haven\'t input anything</string>
+    <string name="toast_invalid_domain">Invalid domain</string>
+    <string name="toast_load_error">Can\'t load this URL</string>
+    <string name="toast_load_in_background">Loading in background</string>
+    <string name="toast_new_tab_successful">Successfully opened in a new tab</string>
+    <string name="toast_open_file_manager_failed">Failed to open File Manager</string>
+    <string name="toast_refresh_failed">Can\'t refresh this page</string>
+    <string name="toast_relayout_successful">Successfully Relayout</string>
+    <string name="toast_screenshot_successful">Saved screenshot at:&#160;</string>
+    <string name="toast_share_failed">Can\'t share this page</string>
+    <string name="toast_start_download">Starting download</string>
+    <string name="toast_wait_a_minute">Please wait for a moment</string>
+    <string name="toast_titleConfirm_delete">Do you really want to delete the entry?</string>
+    <string name="toast_titleConfirm_paste">Copy data to clipboard?</string>
+    <string name="toast_titleConfirm_pasteUN">Username</string>
+    <string name="toast_titleConfirm_pastePW">Password</string>
+    <string name="toast_directory">Can\'t open directory</string>
+    <string name="toast_noFile">Can\'t open directory</string>
+    <string name="toast_error">Uuups. Something went wrong.</string>
+    <string name="toast_newTitle">Entry already exists. Please enter new title.</string>
+    <string name="toast_edit_successful">Successfully saved</string>
+    <string name="toast_webview_forward">Can\'t load next site</string>
+    <string name="toast_webview_back">Can\'t load previous site</string>
+    <string name="toast_entry_exists">Entry exists already.</string>
+    <string name="toast_clear">Du you really want to clear?</string>
+    <string name="toast_permission_title">Permission is needed</string>
+    <string name="toast_permission_sdCard">\"Browser\" needs the permission to \"read and write on your storage\". This is needed for
+    downloading files, the build in file manager and taking screenshots. If you don\'t grant the permission yet, you can do it
+    later in the settings.</string>
+    <string name="toast_permission_sdCard_sec">Please grant the permission to \"read and write on your storage\" in the settings.</string>
+    <string name="toast_permission_loc">\"Browser\" needs the permission to \"access your location\". This is requested from some
+        websites for example when they offer some kind of navigation. If you don\'t grant the permission yet, you can do it
+    later in the settings.</string>
+    <string name="toast_restart">你需要重启浏览器才能使设置生效.</string>
+
+
+    <!-- Whitelist -->
+    <string name="whitelist_menu_clear">Clear</string>
+    <string name="whitelist_edit_hint">Domain</string>
+    <string name="whitelist_add">Add</string>
+
+    <!--Aria2 -->
+    <string name="isHttps">启用SSl</string>
+
+</resources>

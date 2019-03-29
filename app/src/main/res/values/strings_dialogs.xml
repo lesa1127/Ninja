@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <string name="changelog_title">更新日志</string>
+    <string name="changelog_dialog">
+        &lt;i> 浏览器版本 v1.002 &lt;br>
+        成功添加Aria2插件
+    </string>
+
+
+    <string name="toolbar_title">工具栏</string>
+    <string name="toolbar_dialog">在屏幕的底部有工具栏。您可以重新加载当前
+网站并打开菜单。刷上工具栏打开选项卡控件。在标签之间切换，向左或向右滑动。</string>
+
+    <string name="tab_title">标签控制</string>
+    <string name="tab_dialog">点击切换页面</string>
+
+    <string name="not_title">通知</string>
+    <string name="not_dialog">通知显示在屏幕的底部。点击其他地方即可取消</string>
+
+    <string name="nav_title">导航</string>
+    <string name="nav_dialog">使用“导航按钮”在全屏模式：刷卡上/下->滚动到顶部/底部；
+滑动左/右->浏览前进/后退；点击->打开菜单；长按->打开“快速切换对话框”。</string>
+
+    <string name="settings_dialog">在设置中有更多的选项。试试看！</string>
+
+
+    <string name="license_title">Copyright © 2017  LESA</string>
+    <string name="license_dialog"> </string>
+
+    <string name="cont_dialog"> </string>
+
+</resources>
